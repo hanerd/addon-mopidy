@@ -1,7 +1,7 @@
 #!/usr/bin/with-contenv bashio
 # ==============================================================================
-# Home Assistant Community Add-on: InfluxDB
-# Configures NGINX for use with the Chronograf
+# Home Assistant Community Add-on: Mopidy
+# Configures NGINX for use with Mopidy
 # ==============================================================================
 declare port
 declare certfile
